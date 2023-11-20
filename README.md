@@ -40,10 +40,10 @@ This comprehensive capstone project encompasses the design and implementation of
 ## N.B:
 The following requirements are needed for starting with the project:
 
-1. **IBM DB SA**
-2. **IBM DB**
-3. **MySQL Connector Python**
-4. **Python Dotenv**
+1. **IBM_DB_SA**
+2. **IBM_DB**
+3. **MySQL_Connector_Python**
+4. **Python_Dotenv**
 
 # Conclusion
 This capstone project demonstrates a holistic approach to building and optimizing an e-commerce data platform. The seamless integration of MySQL, MongoDB, ETL processes, data warehousing, and advanced analytics contributes to the company's data-driven decision-making capabilities.
