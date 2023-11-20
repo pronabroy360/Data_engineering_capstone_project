@@ -37,5 +37,19 @@ This comprehensive capstone project encompasses the design and implementation of
 5. **Search Term Analysis and Sales Forecasting:**
    - Explore the `ml_spark` folder for implementation details regarding search term analysis and sales forecasting.
 
+## N.B:
+The following requirements are needed for starting with the project:
+1. **IBM DB SA**
+   - Execute scripts in the `Oltp_DB` folder to set up the OLTP database.
+
+2. **IBM DB**
+   - Follow instructions in the `NoSQL_DB` folder to integrate MongoDB for catalog data storage.
+
+3. **MySQL Connector Python**
+   - Refer to the `cognos_dashboard` folder for instructions on data warehouse setup and dashboard creation.
+
+4. **Python Dotenv**
+   - Utilize scripts in the `data_pipelines` folder to perform ETL operations and analyze web server logs.
+
 # Conclusion
 This capstone project demonstrates a holistic approach to building and optimizing an e-commerce data platform. The seamless integration of MySQL, MongoDB, ETL processes, data warehousing, and advanced analytics contributes to the company's data-driven decision-making capabilities.
